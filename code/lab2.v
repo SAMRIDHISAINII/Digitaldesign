@@ -6,6 +6,7 @@ endmodule
 
 
 
+
                                                       testbench_no_1
 module tb_an_g;
   reg A,B;
