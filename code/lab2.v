@@ -28,6 +28,7 @@ initial
 endmodule
 
 
+
 																Verilog_no_2
 // Code your design here
 module or_g(
